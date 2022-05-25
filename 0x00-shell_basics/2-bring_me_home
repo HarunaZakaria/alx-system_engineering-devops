@@ -1,2 +1,4 @@
 #!/bin/bash
-Cd~ or Cd
+cd -
+#!/bin/bash
+cd -
