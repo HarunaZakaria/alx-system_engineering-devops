@@ -2,3 +2,4 @@
 # splays its own PID.
 
 echo $$
+
