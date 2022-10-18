@@ -1,5 +1,4 @@
 !#/usr/bin/env bash
-# splays its own PID.
+# Thisscript displays its own PID.
 
-echo $$
-
+ echo $$
