@@ -3,7 +3,6 @@
 """
 importing requests module
 """
-
 from requests import get
 
 
